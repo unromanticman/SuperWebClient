@@ -1,7 +1,7 @@
 # SuperWebClient
 A Python WebClient.  
 It can request POST or GET method and <b>keep cookie exist</b>.  
-
+If you want to request some url and need to login auth,you will use it.
 
 ## Support
 python 2.7
