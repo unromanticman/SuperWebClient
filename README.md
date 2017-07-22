@@ -31,7 +31,8 @@ rs = client.DownloadString('http://<b>{YOUR_URL}</b>/')
 print rs
 
 #Get All Cookie
-client.getCookie()
+cookies = client.getCookie()
+print cooikes
 
 client.clean()
 </pre>
