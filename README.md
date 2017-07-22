@@ -9,7 +9,7 @@ python 2.7
 ## Installation
 pip install requests
 
-## USEAGE
+## Usage
 <pre>
 from SuperWebClient import SuperWebClient 
 #init
