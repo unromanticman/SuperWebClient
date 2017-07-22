@@ -30,6 +30,9 @@ print rs
 rs = client.DownloadString('http://<b>{YOUR_URL}</b>/')
 print rs
 
+#Get All Cookie
+client.getCookie()
+
 client.clean()
 </pre>
 
