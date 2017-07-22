@@ -22,5 +22,8 @@ print rs
 rs = client.DownloadString('http://{YOUR_URL}/')
 print rs
 
+#Get All Cookie
+client.getCookie()
+
 client.clean()
 
